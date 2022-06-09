@@ -1,6 +1,6 @@
-# Git Tutorial 
+# Git Commands 
 
-I learned some important tools in this repository.
+I learned some important commands in this repository.
 first one is 
 ```git
 $ git init
