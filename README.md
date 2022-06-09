@@ -25,4 +25,3 @@ Each command is divided into several commands as there is in $ git commit
 $ git commit -a
 $ git commit -m
 ...
-```
